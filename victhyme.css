@@ -1,0 +1,16 @@
+@font-face {
+    font-family: VT323;
+    src: url(./fonts/VT323-Regular.ttf);
+}
+
+html, body{
+    font-family: VT323, sans-serif;
+    width: 100%;
+    heigth: 100%;
+}
+.centered{
+    text-align: center;
+}
+#main{
+    margin:auto, 0;
+}
